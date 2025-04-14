@@ -10,13 +10,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 60vh;
+    min-height: 100vh;
 }
 
 .cv-card {
     background-color: #ffffff;
-    width: 800px;
-    height: 600px;
+    width: 600px;
+    height: 900px;
     display: flex;
     border-radius: 15px;
     overflow: hidden;

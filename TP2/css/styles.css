@@ -1,0 +1,52 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 220px;
+    height: 100vh;
+    background-color: #1f1f1f;
+    padding: 2rem 1rem;
+    z-index: 1030;
+}
+.sidebar h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.content {
+    margin-left: 240px;
+    padding: 2rem;
+}
+.skill-card {
+    background-color: #252932;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 20px;
+    font-weight: 500;
+}
+.timeline {
+    border-left: 3px solid #0d6efd;
+    padding-left: 20px;
+}
+.timeline-item {
+    position: relative;
+    margin-bottom: 2rem;
+}
+.timeline-icon {
+    position: absolute;
+    left: -12px;
+    top: 0;
+    width: 20px;
+    height: 20px;
+    background-color: #0d6efd;
+    border-radius: 50%;
+}
+video.card-img-top {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
