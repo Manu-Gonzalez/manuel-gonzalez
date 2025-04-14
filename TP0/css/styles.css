@@ -155,3 +155,8 @@ body {
 .language .dot.filled {
     background-color: #23c4c4;
 }
+
+.img{
+    height: 80px;
+    width: 80px;
+}
