@@ -15,8 +15,8 @@ body {
 
 .cv-card {
     background-color: #ffffff;
-    width: 600px;
-    height: 1000px;
+    width: 800px;
+    height: 900px;
     display: flex;
     border-radius: 15px;
     overflow: hidden;
